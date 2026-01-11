@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|C:\\Users\\heath\\Desktop\\PhysicsSimulator\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|solutionrelative:Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|C:\\Users\\heath\\Desktop\\PhysicsSimulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|C:\\Users\\heath\\Desktop\\PhysicsSimulator\\TestBench.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8204B94A-A275-00B9-8678-08F9AD2151B8}|PhysicsSimulator.vcxproj|solutionrelative:TestBench.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\Engine.cpp",
+              "RelativeDocumentMoniker": "Engine.cpp",
+              "ToolTip": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\Engine.cpp",
+              "RelativeToolTip": "Engine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T15:06:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T15:06:15.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestBench.cpp",
+              "DocumentMoniker": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\TestBench.cpp",
+              "RelativeDocumentMoniker": "TestBench.cpp",
+              "ToolTip": "C:\\Users\\heath\\Desktop\\PhysicsSimulator\\TestBench.cpp",
+              "RelativeToolTip": "TestBench.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T15:06:09.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
