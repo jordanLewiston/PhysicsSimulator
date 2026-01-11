@@ -1,0 +1,27 @@
+﻿  Engine.cpp
+  main.cpp
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(4,29): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(5,38): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(6,38): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(7,29): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(8,29): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(9,29): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\Constants.h(10,29): error C7525: inline variables require at least '/std:c++17'
+  (compiling source file 'main.cpp')
+  
+C:\Users\heath\Desktop\PhysicsSimulator\physicssimulator\x64\debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cpp(1,8): error C1190: System::Object not found, missing /clr option or missing import of standard assemblies?
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  TestBench.cpp
+  Generating Code...

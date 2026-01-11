@@ -1,0 +1,3 @@
+﻿  TestBench.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  PhysicsSimulator.vcxproj -> C:\Users\heath\Desktop\PhysicsSimulator\x64\Release\PhysicsSimulator.exe
